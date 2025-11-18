@@ -1000,6 +1000,7 @@ require('lazy').setup({
   require 'custom.plugins.nvim-tmux-navigator',
   require 'custom.plugins.dap-ui',
   require 'custom.plugins.tokyonight',
+  require 'custom.plugins.vim-fugitive',
   -- NOTE: The import below can automatically add your own plugins, configuration, etc from `lua/custom/plugins/*.lua`
   --    This is the easiest way to modularize your config.
   --
